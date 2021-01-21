@@ -3,8 +3,6 @@
 # AC/BC (After Colau/Before Colau)
 Raul Castrillo & Pol Serramalera
 
-Data Analytics full time 30/oct/2020
-
 ## Content
 - [Project Description](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
