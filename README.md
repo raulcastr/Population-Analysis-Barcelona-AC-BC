@@ -1,4 +1,4 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+<img src="https://www.stubhub.co.uk/magazine/sites/default/files/styles/default_teaser/public/2019-06/barcelona-city-guide.jpg?h=52a8dbe5&itok=VnevpJvG" alt="Barcelona" width="100"/>
 
 # AC/BC (After Colau/Before Colau)
 Raul Castrillo & Pol Serramalera
