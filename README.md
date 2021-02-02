@@ -1,4 +1,4 @@
-<img src="https://www.kokopeliadventure.com/wp-content/uploads/2016/02/IMG_6853-570x570.jpg" alt="Barcelona" width="200" height="100"/>
+<img src="https://www.kokopeliadventure.com/wp-content/uploads/2016/02/IMG_6853-570x570.jpg" alt="Barcelona" width="200" height="150"/>
 
 # Population Analysis of Barcelona AC/BC (After Colau/Before Colau)
 Raul Castrillo & Pol Serramalera
