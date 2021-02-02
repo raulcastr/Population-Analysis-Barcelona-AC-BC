@@ -1,4 +1,4 @@
-<img src="https://www.stubhub.co.uk/magazine/sites/default/files/styles/default_teaser/public/2019-06/barcelona-city-guide.jpg?h=52a8dbe5&itok=VnevpJvG" alt="Barcelona" width="100"/>
+<img src="https://www.kokopeliadventure.com/wp-content/uploads/2016/02/IMG_6853-570x570.jpg" alt="Barcelona" width="100"/>
 
 # AC/BC (After Colau/Before Colau)
 Raul Castrillo & Pol Serramalera
