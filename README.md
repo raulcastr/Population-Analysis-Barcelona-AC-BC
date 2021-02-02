@@ -1,6 +1,6 @@
 <img src="https://www.kokopeliadventure.com/wp-content/uploads/2016/02/IMG_6853-570x570.jpg" alt="Barcelona" width="300"/>
 
-# AC/BC (After Colau/Before Colau)
+# Population Analysis of Barcelona AC/BC (After Colau/Before Colau)
 Raul Castrillo & Pol Serramalera
 
 ## Content
@@ -25,43 +25,39 @@ Our hypoteses is that the inmigration and aging index increased after colau's go
 
 
 ## Dataset
-Provided by ironhack:
 
-·births.csv
-·deaths.csv
-·immigrants-by-nationality.csv
-·immigrants-emigrants-by-age.csv
-·immigrants-emigrants-by-destination.csv
-·immigrants-emigrants-by-sex.csv
-·Population of Barcelona
+From https://www.bcn.cat/estadistica/ :
 
-From the bcn.cat
-
-·Disposable family income (https://www.bcn.cat/estadistica/catala/dades/anuari/cap14/C1401030.htm)
+·births (2013-2017)
+·deaths (2013-2017)
+·immigrants-by-nationality (2013-2017)
+·immigrants-emigrants-by-age (2013-2017)
+·immigrants-emigrants-by-destination (2013-2017)
+·immigrants-emigrants-by-sex (2013-2017)
+·Population of Barcelona (2013-2017)
+·Disposable family income (2013-2017)
 
 
 ## Database
-We created new tables from the gathered datasets to calculate rates for each district for each year and then we created a final table with 10 rows ( 1 for each district) with all the gathered rates Before Colau and After Colau
+We created new tables from the gathered datasets to calculate rates for each district and each year, then we created a final table with 1 row for each district with all the gathered rates Before Colau and After Colau .
 
-#Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
 
-1. First we have cleaned the official datasets with the information that mattered to us and took years 2013-2017 as a sample
-2.  Creating  sub data frames to study the data  by year and district  out of the main database
-3. Adding new columns with statistics and operations  to the new data frames
-4. Merging immigration and population demography dataframes to a final table
+1. First we have cleaned the official datasets with the information that mattered to us and took years 2013-2017 as a sample.
+2. Creating  sub data frames to study the data  by year and district  out of the main database.
+3. Adding new columns with statistics and operations  to the new data frames.
+4. Merging immigration and population demography dataframes to a final database.
 
 
 ## Organization
 
 To organize our work we created a kanbas board in trello.com, and we divided the tasks between us 2.
 
-Our repository has 2 initial folders, one for the datasets and another for the project files, the project files include a Readme.md file and in a separate folder
-named 'code' we have all the python3 coding files.
+Our repository has 2 initial folders, one for the datasets and another for the python3 coding files.
 
 ## Links
 
-[Repository](https://github.com/polserramalera/Project-Week-2-Barcelona)  
-[Slides](https://docs.google.com/presentation/d/1_dXjmLu-4XQp2hb52MGz8fbdAeuj1RgDd-ifIM9lZpA/edit#slide=id.gc6fa3c898_0_0)  
+[Repository](https://github.com/raulcastr/Population-Analysis-Barcelona-AC-BC)  
+[Slides](https://drive.google.com/file/d/15wsNCGVDvU_JuHEGrE5kXIGvx2cGbOyG/view?usp=sharing)  
 [Trello](https://trello.com/b/cugCk511/project2-2-year-balance-on-a-new-government)  
