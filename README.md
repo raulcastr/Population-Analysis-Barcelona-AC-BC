@@ -1,4 +1,4 @@
-<img src="https://www.kokopeliadventure.com/wp-content/uploads/2016/02/IMG_6853-570x570.jpg" alt="Barcelona" width="100"/>
+<img src="https://www.kokopeliadventure.com/wp-content/uploads/2016/02/IMG_6853-570x570.jpg" alt="Barcelona" width="300"/>
 
 # AC/BC (After Colau/Before Colau)
 Raul Castrillo & Pol Serramalera
