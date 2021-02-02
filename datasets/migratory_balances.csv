@@ -1,11 +1,7 @@
-,District name,Total population BC,Total population AC,Migratory balance BC,Migratory balance AC,Immigration over population BC,Immigration over population AC
-0,Ciutat Vella,-3224,1272,2344,1369,-73%,108%
-1,Eixample,-1222,2858,2946,2045,-241%,72%
-2,Gràcia,-548,946,1111,380,-239%,119%
-3,Horta-Guinardó,-1184,2192,706,819,-32%,8%
-4,Les Corts,-110,503,379,179,-855%,73%
-5,Nou Barris,-1100,1931,917,1208,-101%,20%
-6,Sant Andreu,-352,1100,892,530,-201%,74%
-7,Sant Martí,833,1854,1055,1783,110%,65%
-8,Sants-Montjuïc,-1928,1153,1310,1126,-46%,46%
-9,Sarrià-Sant Gervasi,1568,2445,940,367,67%,73%
+,Ciutat Vella,Eixample,Gràcia,Horta-Guinardó,Les Corts,Nou Barris,Sant Andreu,Sant Martí,Sants-Montjuïc,Sarrià-Sant Gervasi
+Total population BC,-3224,-1222,-548,-1184,-110,-1100,-352,833,-1928,1568
+Total population AC,1272,2858,946,2192,503,1931,1100,1854,1153,2445
+Migratory balance BC,2344,2946,1111,706,379,917,892,1055,1310,940
+Migratory balance AC,1369,2045,380,819,179,1208,530,1783,1126,367
+Immigration over population BC,-73%,-241%,-239%,-32%,-855%,-101%,-201%,110%,-46%,67%
+Immigration over population AC,108%,72%,119%,8%,73%,20%,74%,65%,46%,73%
